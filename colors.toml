@@ -1,0 +1,39 @@
+mode = "dark"
+
+# Van Halen (1978), from the band's winged logo. Black, the chrome of the
+# wings, the blue of the banner, the teal stripes, the violet beneath the
+# banner and the yellow wedges at its ends.
+
+accent = "#2b9ddc"
+selection = "#16334a"
+muted = "#24505c"
+
+background = "#050506"
+dark_background = "#020203"
+darker_background = "#000000"
+lighter_background = "#17181c"
+
+foreground = "#e9edf2"
+dark_foreground = "#5f7a90"
+light_foreground = "#a5b9ca"
+bright_foreground = "#ffffff"
+
+red = "#e2586a"
+yellow = "#f2d04a"
+orange = "#f0a040"
+green = "#8fbf55"
+cyan = "#22b4c8"
+blue = "#3a9fe0"
+magenta = "#a57ad6"
+brown = "#8a6a40"
+
+bright_red = "#ee8794"
+bright_yellow = "#f7e186"
+bright_green = "#b2d68a"
+bright_cyan = "#66cfdc"
+bright_blue = "#78bdea"
+bright_magenta = "#c3a6e4"
+
+# Window borders run the banner's blue down into its violet edge.
+hyprland_active_border = "rgba(2b9ddcee) rgba(9d73cfee) 45deg"
+hyprland_inactive_border = "rgba(17181caa)"
