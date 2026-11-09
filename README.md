@@ -10,8 +10,6 @@ An [Omarchy](https://omarchy.org/) theme from the winged logo on Van Halen's fir
 omarchy theme install https://github.com/keithrowell/omarchy-van-halen-i-theme
 ```
 
-The theme applies as soon as it installs.
-
 ## Backgrounds
 
 <p>
