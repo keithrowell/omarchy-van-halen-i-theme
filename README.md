@@ -19,6 +19,12 @@ The theme applies as soon as it installs.
 <img src="screenshots/desktop-2-corner.webp" alt="The logo in the corner" width="49%">
 </p>
 
+## OmarkyReader
+
+[OmarkyReader](https://github.com/keithrowell/omarky) reads Markdown in the theme's colours.
+
+![OmarkyReader in Van Halen I](screenshots/omarky-reader.webp)
+
 ## btop
 
 ![btop in Van Halen I](screenshots/btop.webp)
