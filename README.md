@@ -14,14 +14,10 @@ The theme applies as soon as it installs.
 
 ## Backgrounds
 
-<table>
-  <tr>
-    <td width="50%"><img src="screenshots/desktop-1-van-halen.webp" alt="The winged logo, centred"><br><code>1-van-halen.jpg</code>: the winged logo, centred</td>
-    <td width="50%"><img src="screenshots/desktop-2-corner.webp" alt="The logo in the corner"><br><code>2-corner.jpg</code>: the logo small in the lower right corner</td>
-  </tr>
-</table>
-
-Switch between them with `omarchy theme bg next`.
+<p>
+<img src="screenshots/desktop-1-van-halen.webp" alt="The winged logo, centred" width="49%">
+<img src="screenshots/desktop-2-corner.webp" alt="The logo in the corner" width="49%">
+</p>
 
 ## btop
 
